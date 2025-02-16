@@ -1,18 +1,25 @@
 📊 SuperStore Data Analysis Dashboard
-📌 Project Overview
+
+📌 Project Overview - 
 This project analyzes SuperStore sales data and presents key insights using Tableau. The dashboard provides a visual representation of profitability trends across different categories, products, and states.
 
-🚀 Dashboard Insights
-🔹 Overall Profit by Category – Identifies the most and least profitable product categories.
+🚀 Dashboard Insights --
+
+ 🔹 Overall Profit by Category – Identifies the most and least profitable product categories.
+
 🔹 Top 10 Least Profitable Items – Highlights products contributing to low profitability.
+
 🔹 Profit by State – Displays regional profitability to analyze performance across locations.
+
 🔹 Profit Trends Over Time – Shows profit variations and trends over different periods.
 
-📂 Dataset
+📂 Dataset --
 The dataset contains sales, profit, category, and regional data for a retail SuperStore. It has been cleaned and optimized for visualization.
 
-📊 Tools Used
+📊 Tools Used --
+
 ✔ Tableau – For data visualization and dashboard creation
+
 ✔ Excel – For data cleaning and preprocessing
 
 🔗 GitHub Repository - https://github.com/Rish251607/Project-SuperStore.git
