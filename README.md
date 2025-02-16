@@ -3,7 +3,8 @@
 📌 Project Overview - 
 This project analyzes SuperStore sales data and presents key insights using Tableau. The dashboard provides a visual representation of profitability trends across different categories, products, and states.
 
-🚀 Dashboard Insights --
+🚀 Dashboard Insights --  <img src="https://github.com/user-attachments/assets/adb13c41-6c28-4a8e-bb6a-ce623b55eb99" width="600" height="400">
+
 
  🔹 Overall Profit by Category – Identifies the most and least profitable product categories.
 
